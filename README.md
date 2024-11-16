@@ -1,8 +1,8 @@
-# 📌 Udemig Academy
+# 📌 Pizza store
 
-**Udemig Academy** projesi, [Öğrenim] için oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
+**Pizza store** projesi, [Öğrenim] için oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
 
-![Proje Görseli](udemig-academy-gif.gif)  
+![Proje Görseli](pizza-store-gif.gif)  
 
 ---
 
@@ -19,4 +19,4 @@
 1. Bu projeyi bilgisayarınıza klonlayın:  
    ```bash
    cd Klasör adı
-   git clone https://github.com/omerffae/udemig-academy.git
+   git clone https://github.com/omerffae/pizza-store.git

@@ -1,6 +1,6 @@
 # 📌 Pizza store
 
-**Pizza store** projesi, [Öğrenim] için oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
+**Pizza store** projesi, için oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
 
 ![Proje Görseli](pizza-store-gif.gif)  
 

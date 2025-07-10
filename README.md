@@ -1,22 +1,22 @@
 # 📌 Pizza store
 
-**Pizza store** projesi, için oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
+**Pizza store** project is an open-source software created for demonstration purposes. 🚀  
 
-![Proje Görseli](pizza-store-gif.gif)  
-
----
-
-## 🛠️ Özellikler
-
-- 🔹 **Özellik 1**: Sadece HTML5, CSS3 ile yazıldı, Nav buttonu için ufak Js eklendi.  
-- 🔹 **Özellik 2**: Görseller mevcut.  
-- 🔹 **Özellik 3**: Responsive tasarımdır.  
+![Project Visual](pizza-store-gif.gif)  
 
 ---
 
-## 📚 Kurulum
+## 🛠️ Features
 
-1. Bu projeyi bilgisayarınıza klonlayın:  
+- 🔹 **Feature 1**: Built only with HTML5 and CSS3, with a small JS addition for the nav button.  
+- 🔹 **Feature 2**: Includes images.  
+- 🔹 **Feature 3**: Responsive design.  
+
+---
+
+## 📚 Installation
+
+1. Clone this project to your computer:  
    ```bash
-   cd Klasör adı
+   cd FolderName
    git clone https://github.com/omerffae/pizza-store.git
